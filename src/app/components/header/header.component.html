@@ -1,0 +1,49 @@
+<style>
+  header {
+    display: flex;
+    padding-inline: 16px;
+    padding-block: 8px;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    align-items: center;
+
+    nav {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      >span {
+        cursor: pointer;
+
+        &:hover {
+          color: #eee;
+        }
+      }
+
+      ul {
+        list-style: none;
+        cursor: pointer;
+
+        li {
+          &:hover {
+            color: #eee;
+          }
+        }
+      }
+    }
+  }
+
+</style>
+
+<header>
+  <nav>
+    <span routerLink="/">
+      {{ title }}
+    </span>
+    <ul>
+      <li routerLink="/signup">Login/Signup</li>
+    </ul>
+  </nav>
+</header>

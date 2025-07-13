@@ -1,0 +1,82 @@
+[
+    {
+        "Email": "john.doe@example.com",
+        "Password": "John Doe!@#",
+        "FullName": "John Doe",
+        "Role": "Admin",
+        "Gender": "Male",
+        "Age": 34
+    },
+    {
+        "Email": "jane.smith@example.com",
+        "Password": "Jane Smith$%^",
+        "FullName": "Jane Smith",
+        "Role": "User",
+        "Gender": "Female",
+        "Age": 28
+    },
+    {
+        "Email": "michael.brown@example.com",
+        "Password": "Michael Brown*&^",
+        "FullName": "Michael Brown",
+        "Role": "Moderator",
+        "Gender": "Male",
+        "Age": 41
+    },
+    {
+        "Email": "emily.jones@example.com",
+        "Password": "Emily Jones@#!",
+        "FullName": "Emily Jones",
+        "Role": "User",
+        "Gender": "Female",
+        "Age": 22
+    },
+    {
+        "Email": "david.wilson@example.com",
+        "Password": "David Wilson%$#",
+        "FullName": "David Wilson",
+        "Role": "User",
+        "Gender": "Male",
+        "Age": 37
+    },
+    {
+        "Email": "linda.taylor@example.com",
+        "Password": "Linda Taylor!&*",
+        "FullName": "Linda Taylor",
+        "Role": "Admin",
+        "Gender": "Female",
+        "Age": 45
+    },
+    {
+        "Email": "robert.moore@example.com",
+        "Password": "Robert Moore^%$",
+        "FullName": "Robert Moore",
+        "Role": "User",
+        "Gender": "Male",
+        "Age": 30
+    },
+    {
+        "Email": "patricia.anderson@example.com",
+        "Password": "Patricia Anderson@#$",
+        "FullName": "Patricia Anderson",
+        "Role": "Teacher",
+        "Gender": "Female",
+        "Age": 27
+    },
+    {
+        "Email": "charles.thomas@example.com",
+        "Password": "Charles Thomas!%&",
+        "FullName": "Charles Thomas",
+        "Role": "User",
+        "Gender": "Male",
+        "Age": 33
+    },
+    {
+        "Email": "barbara.jackson@example.com",
+        "Password": "Barbara Jackson*^%",
+        "FullName": "Barbara Jackson",
+        "Role": "User",
+        "Gender": "Female",
+        "Age": 29
+    }
+]
