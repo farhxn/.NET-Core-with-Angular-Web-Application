@@ -13,7 +13,13 @@ export class UserService {
   url: string = environment.apiBaseUrl;
 
   getUserProfile() {
-
     return this.http.get(this.url + '/userprofile');
   }
+
+
+  getUsersList() {
+    return this.http.get(this.url + '/AdminOnly');
+  }
+
+
 }

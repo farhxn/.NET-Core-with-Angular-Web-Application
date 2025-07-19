@@ -1,85 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\.net projects\\PaymentApi\\",
+  "WorkspaceRootPath": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\extensions\\identityextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\extensions\\identityextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\userdetail.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\userdetail.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\extensions\\appconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\extensions\\appconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\extensions\\appconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\extensions\\identityextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\extensions\\identityextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\models\\paymentdetailcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\models\\paymentdetailcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\userdetail.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\userdetail.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\migrations\\20250709120704_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\migrations\\20250709120704_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\20250709120704_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\migrations\\20250708093613_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\migrations\\20250708093613_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\20250708093613_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\migrations\\20250709124450_final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\migrations\\20250709124450_final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\20250709124450_final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\.net projects\\paymentapi\\paymentapi\\migrations\\20250709124357_final1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|e:\\angular\\paymentapp\\backend\\paymentapi\\paymentapi\\migrations\\20250709124357_final1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10CBFB71-DCD6-47AB-B634-200257B39908}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\20250709124357_final1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -99,101 +103,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Program.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Program.cs",
-              "RelativeToolTip": "PaymentApi\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:22:29.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdentityUserEndPoints.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\IdentityUserEndPoints.cs*",
-              "RelativeToolTip": "PaymentApi\\Controllers\\IdentityUserEndPoints.cs*",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:30:10.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "userDetail.json",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\userDetail.json",
-              "RelativeDocumentMoniker": "PaymentApi\\userDetail.json",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\userDetail.json",
-              "RelativeToolTip": "PaymentApi\\userDetail.json",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-11T13:44:33.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountEndPoints.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\AccountEndPoints.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\AccountEndPoints.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\AccountEndPoints.cs*",
-              "RelativeToolTip": "PaymentApi\\Controllers\\AccountEndPoints.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T11:54:20.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "IdentityExtenstions.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\IdentityExtenstions.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\IdentityExtenstions.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Extensions\\IdentityExtenstions.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\IdentityExtenstions.cs*",
-              "RelativeToolTip": "PaymentApi\\Extensions\\IdentityExtenstions.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\IdentityExtenstions.cs",
+              "RelativeToolTip": "PaymentApi\\Extensions\\IdentityExtenstions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T14:59:46.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "IdentityUserEndPoints.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\IdentityUserEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:30:10.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\AppSettings.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Models\\AppSettings.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\AppSettings.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\AppSettings.cs",
               "RelativeToolTip": "PaymentApi\\Models\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T15:46:16.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppConfigExtension.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\AppConfigExtension.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Extensions\\AppConfigExtension.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\AppConfigExtension.cs",
-              "RelativeToolTip": "PaymentApi\\Extensions\\AppConfigExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:23:12.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "EFCoreExtensions.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\EFCoreExtensions.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\EFCoreExtensions.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Extensions\\EFCoreExtensions.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\EFCoreExtensions.cs",
               "RelativeToolTip": "PaymentApi\\Extensions\\EFCoreExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,60 +154,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorizationDemoEndpoints.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
-              "RelativeToolTip": "PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwDsAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppConfigExtension.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\AppConfigExtension.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Extensions\\AppConfigExtension.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\AppConfigExtension.cs",
+              "RelativeToolTip": "PaymentApi\\Extensions\\AppConfigExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T14:30:17.895Z",
+              "WhenOpened": "2025-07-10T15:23:12.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeToolTip": "PaymentApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:22:29.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwaggerExtension.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\SwaggerExtension.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Extensions\\SwaggerExtension.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Extensions\\SwaggerExtension.cs",
+              "RelativeToolTip": "PaymentApi\\Extensions\\SwaggerExtension.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:17:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentDetailContex.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContex.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContex.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContex.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:14:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\AppUser.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Models\\AppUser.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\AppUser.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\AppUser.cs",
               "RelativeToolTip": "PaymentApi\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAawBIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T13:30:30.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SwaggerExtension.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\SwaggerExtension.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Extensions\\SwaggerExtension.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Extensions\\SwaggerExtension.cs",
-              "RelativeToolTip": "PaymentApi\\Extensions\\SwaggerExtension.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAASwB4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GeneralController.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\GeneralController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\GeneralController.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\GeneralController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\GeneralController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:17:10.736Z"
+              "WhenOpened": "2025-07-14T08:31:28.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentDetailsController.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailsController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailsController.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailsController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:41:07.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountEndPoints.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\AccountEndPoints.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\AccountEndPoints.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\AccountEndPoints.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\AccountEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:54:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "userDetail.json",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\userDetail.json",
+              "RelativeDocumentMoniker": "PaymentApi\\userDetail.json",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\userDetail.json",
+              "RelativeToolTip": "PaymentApi\\userDetail.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T13:44:33.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\ResponseDto.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:08:25.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\appsettings.json",
-              "RelativeDocumentMoniker": "PaymentApi\\appsettings.json",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\appsettings.json",
-              "RelativeToolTip": "PaymentApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T09:27:27.632Z"
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:30:17.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "20250709124357_Final1.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709124357_Final1.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709124357_Final1.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Migrations\\20250709124357_Final1.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709124357_Final1.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709124357_Final1.cs",
               "RelativeToolTip": "PaymentApi\\Migrations\\20250709124357_Final1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20250709124450_Final2.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709124450_Final2.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709124450_Final2.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Migrations\\20250709124450_Final2.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709124450_Final2.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709124450_Final2.cs",
               "RelativeToolTip": "PaymentApi\\Migrations\\20250709124450_Final2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,23 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PaymentDetailContex.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContex.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContex.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContex.cs",
-              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContex.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:14:47.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PaymentApi\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "PaymentApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -299,23 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PaymentDetailsController.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailsController.cs",
-              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailsController.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailsController.cs",
-              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:41:07.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20250709120704_Final.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709120704_Final.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709120704_Final.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Migrations\\20250709120704_Final.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250709120704_Final.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250709120704_Final.cs",
               "RelativeToolTip": "PaymentApi\\Migrations\\20250709120704_Final.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PaymentDetail.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetail.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
               "RelativeToolTip": "PaymentApi\\Models\\PaymentDetail.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20250708093613_Intial.cs",
-              "DocumentMoniker": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250708093613_Intial.cs",
+              "DocumentMoniker": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250708093613_Intial.cs",
               "RelativeDocumentMoniker": "PaymentApi\\Migrations\\20250708093613_Intial.cs",
-              "ToolTip": "E:\\.net projects\\PaymentApi\\PaymentApi\\Migrations\\20250708093613_Intial.cs",
+              "ToolTip": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\Migrations\\20250708093613_Intial.cs",
               "RelativeToolTip": "PaymentApi\\Migrations\\20250708093613_Intial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

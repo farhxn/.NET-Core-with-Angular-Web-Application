@@ -1,1 +1,41 @@
-<p>admin-only works!</p>
+<div class="text-center bg-body-tertiary rounded-3">
+  <h1 class="display-4 fw-bold text-info-emphasis">User's List</h1>
+  <p class="lead text-secondary">Your gateway to amazing content</p>
+</div>
+
+
+<table class="row-border hover table table-hover table-striped-columns bg-body-light" id="userTable">
+  <thead>
+    <tr>
+      <th>S.NO</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Gender</th>
+      <th>Role</th>
+      <th>Library ID</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users; let i = index">
+      <td>{{ i+1 }}</td>
+      <td>{{ user.fullName }}</td>
+      <td>{{ user.email }}</td>
+      <td>{{ user.gender }}</td>
+      <td>{{ user.roles }}</td>
+      <td>{{ user.libraryID ?? "N/A" }}</td>
+      <td class="me-2">
+        <button class="btn btn-warning me-2">
+          <i class="fas fa-edit text-white " title="Edit"></i>
+        </button>
+        <button class="btn btn-danger me-2">
+          <i class="fas fa-trash text-white " title="Delete"></i>
+        </button>
+
+        <button class="btn btn-info">
+          <i class="fas fa-eye text-white" title="View"></i>
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>

@@ -9,8 +9,10 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
+        "Type": "PaymentApi.Models.ResponseDto",
+        "MediaTypes": [
+          "application/json"
+        ],
         "StatusCode": 200
       }
     ]
@@ -124,6 +126,16 @@
         "StatusCode": 400
       }
     ]
+  },
+  {
+    "ContainingType": "PaymentApi.Controllers.GeneralController",
+    "Method": "GetPayments",
+    "RelativePath": "api/General",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "PaymentApi.Controllers.AuthorizationDemoEndpoints",

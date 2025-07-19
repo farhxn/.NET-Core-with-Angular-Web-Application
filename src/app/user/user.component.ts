@@ -43,6 +43,7 @@ export class UserComponent implements OnInit {
       this.route.navigateByUrl('/dashboard');
     }
   }
+  
   getRouteUrl() {
     return this.context.getContext('primary')?.route?.url;
   }

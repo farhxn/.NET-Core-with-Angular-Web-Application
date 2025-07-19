@@ -20,6 +20,7 @@ export const routes: Routes = [
     pathMatch: 'full',
     redirectTo: '/login',
   },
+  
   {
     path: '',
     component: UserComponent,

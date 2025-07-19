@@ -8131,11 +8131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net projects\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
+      "projectUniqueName": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
       "projectName": "PaymentApi",
-      "projectPath": "E:\\.net projects\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
+      "projectPath": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
       "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "E:\\.net projects\\PaymentApi\\PaymentApi\\obj\\",
+      "outputPath": "E:\\Angular\\PaymentApp\\Backend\\PaymentApi\\PaymentApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio Tools & SDK\\NuGetPackages"

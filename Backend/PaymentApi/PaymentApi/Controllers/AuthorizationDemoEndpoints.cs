@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using PaymentApi.Models;
 
 namespace PaymentApi.Controllers
 {
@@ -18,9 +21,30 @@ namespace PaymentApi.Controllers
         }
 
         [Authorize(Roles ="Admin")]
-        private async static  Task<IResult> AdminOnly()
+        private async static  Task<ResponseDto> AdminOnly(UserManager<AppUser> userManager)
         {
-            return Results.Ok(new { message = "Successfully access Admin Route" });
+            var user = await userManager.Users.ToListAsync();
+      var userwRole = new List<object>();
+
+      foreach (var use  in user)
+      {
+
+        var roles = await userManager.GetRolesAsync(use);
+        string role = string.Join(',', roles);
+        userwRole.Add(new {
+          use.FullName,
+          use.Email,
+          use.DOB,
+          use.LibraryID,
+          use.Gender,
+          Roles = role
+        });
+
+      }
+
+            ResponseDto response = new ResponseDto();
+              response.data = userwRole; 
+            return response;
         }
 
         [Authorize(Roles ="Admin,Teacher")]

@@ -15,6 +15,7 @@ export class LoginComponent implements OnInit {
   form: any;
   isSubmit: boolean = false;
 
+  
   constructor(
     private formBuilder: FormBuilder,
     private service: AuthService,
@@ -23,8 +24,6 @@ export class LoginComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-
-
     this.form = this.formBuilder.group({
       email: ['', [Validators.required, Validators.email]],
       password: ['', [Validators.required]],
@@ -32,7 +31,7 @@ export class LoginComponent implements OnInit {
   }
 
   onSubmit() {
-    this.isSubmit = true;
+      this.isSubmit = true;
     if (this.form.valid) {
       this.service.signin(this.form.value).subscribe({
         next: (res: any) => {
